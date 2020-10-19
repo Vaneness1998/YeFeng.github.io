@@ -1,0 +1,32 @@
+name: DataViz
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib=3.2.2
+  - jupyter
+  - pillow
+  - pandas
+  - scipy
+  - ipywidgets
+  - palettable
+  - pip
+  - bqplot
+  - traitlets
+  - h5py
+  - requests
+  - ffmpeg
+  - geopandas
+  - contextily
+  - ipyvolume
+  - descartes
+  - wordcloud
+  - libpng
+  - ipyleaflet
+  - nltk
+  - xlrd
+  - cartopy
+  - webcolors
+  - yt
+  - bokeh
+prefix: D:\anaconda\envs\DataViz

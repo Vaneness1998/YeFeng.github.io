@@ -29,4 +29,5 @@ dependencies:
   - webcolors
   - yt
   - bokeh
+  - scikit-learn
 prefix: D:\anaconda\envs\DataViz
